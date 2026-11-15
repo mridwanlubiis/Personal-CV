@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Muhammad Ridwan Lubis | CV</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="cv-note">
+    <h1>Terima kasih sudah berkunjung</h1>
+    <p>Apabila Bapak/Ibu berkenan melihat CV saya, bisa menghubungi saya melalui email berikut.</p>
+    <a class="email-btn" href="mailto:emailkamu@gmail.com?subject=Permintaan%20CV&body=Selamat%20siang%2C%20Ridwan.%20Saya%20tertarik%20untuk%20menerima%20CV%20Anda.">
+      mridwanlubis233@gmail.com
+    </a>
+  </main>
+</body>
+</html>
